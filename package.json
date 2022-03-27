@@ -1,0 +1,19 @@
+{
+  "name": "babel-step-by-step",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingkiddo/babel-step-by-step.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codingkiddo/babel-step-by-step/issues"
+  },
+  "homepage": "https://github.com/codingkiddo/babel-step-by-step#readme"
+}
