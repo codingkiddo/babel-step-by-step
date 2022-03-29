@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/codingkiddo/babel-step-by-step/issues"
   },
-  "homepage": "https://github.com/codingkiddo/babel-step-by-step#readme"
+  "homepage": "https://github.com/codingkiddo/babel-step-by-step#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/plugin-proposal-private-property-in-object": "^7.16.7",
+    "@babel/preset-env": "^7.16.11",
+    "typescript": "^4.6.3"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "IE 10"
+  ]
 }
